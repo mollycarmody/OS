@@ -10,7 +10,7 @@
     "@material-ui/styles": "^3.0.0-alpha.10",
     "@progress/kendo-react-dropdowns": "^2.8.0",
     "@progress/kendo-react-intl": "^2.8.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "axios-rest-client": "^0.1.11",
     "bootstrap": "^4.3.1",
     "classnames": "^2.2.6",
